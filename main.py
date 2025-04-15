@@ -1,8 +1,8 @@
+import tgb
 import telebot
 from flask import Flask
 import threading
 
-bot = telebot.TeleBot("8198227498:AAFn7CBrYNa7YU7_uO2BwFgNY5gBNvjznT4")
 
 app = Flask(__name__)
 
